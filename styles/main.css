@@ -496,13 +496,29 @@ header {
 	padding-bottom:200px;
 }
 
+.about {
+	position:relative;
+	width:100%;
+	
+}
+
+.about-background {
+	position: absolute; 
+	left: 0px; 
+	right: 0px; 
+	top: 0px; 
+	bottom: 0px;
+	background-image: url('/img/about_background.JPG'); 
+	background-size:cover;
+	opacity: 0.5;
+	border-bottom:1px dotted #888;
+}
+
 .about-title {
 	text-align:center;
 	color:#0240F8;
-	padding:100px 0 100px 0;
-	font-size:6em;
-	text-decoration:underline;
-	border-bottom:1px dotted #888;
+	font-size:2em;
+	
 }
 
 .about-item {
