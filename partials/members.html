@@ -1,0 +1,52 @@
+<div class="row">
+<div class="members-announcement col-md-12">
+	Meet AIESEC ILLINOIS
+</div>
+</div>
+
+<div class="row">
+	<div class="members-EB col-md-12">
+		<div class="members-group">
+			<div class="members-leader">
+				<img ng-src="{{leader.Image}}" id="members-leader" class="minions-image">
+				<div class="members-info">
+					<p><b>{{leader.Name}}</b></p>
+					<p><b>{{leader.Function}}</b></p>
+					<p>{{leader.Email}}</p>
+				</div>
+			</div>
+
+			<div class="members-minions">
+				<div class="members-minions-individual" ng-repeat="minions in getMinions()">
+					<img ng-src="{{minions.Image}}" class="minions-image">
+					<p><b>{{minions.Name}}</b></p>
+					<p><b>{{minions.Function}}</b></p>
+					<p>{{minions.Email}}</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="members-nonEB col-md-12">
+		<div class="members-search col-md-12">
+			<p>
+				Search By Function: 
+				<button type="button" class="btn btn-primary btn-lg" ng-click="sort('OGX')">Outgoing Exchange</button>
+				<button type="button" class="btn btn-primary btn-lg" ng-click="sort('ICX')">Incoming Exchange</button>
+				<button type="button" class="btn btn-primary btn-lg" ng-click="sort('CM')">Communications</button>
+				<button type="button" class="btn btn-primary btn-lg" ng-click="sort('TM')">Talent Management</button>
+				<button type="button" class="btn btn-primary btn-lg" ng-click="sort('FIN')">Finance</button>
+			</p>
+		</div>
+		<div class="members-group" ng-show="show">
+			<div class="members-people-individual" ng-repeat="people in getPeople()"> 
+				<img ng-src="{{people.Image}}" class="minions-image">
+				<p><b>{{people.Name}}</b></p>
+				<p><b>{{people.Function}}</b></p>
+				<p>{{people.Email}}</p>
+			</div>
+		</div>
+	</div>
+<div>

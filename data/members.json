@@ -1,0 +1,379 @@
+[	
+    {
+		"Name": "Jamie Vogenthaler",
+		"Function": "Local Committee President",
+		"Email": "jamiev@aiesecillinois.org",
+		"Image": "",
+        "EB":true
+
+	},
+	{
+		"Name": "Kaori Nakamura",
+		"Function": "Vice President of Talent Management",
+		"Email": "vptm-aiesecillinois@aaiesecus.org",
+		"Boss": "Jamie Vogenthaler",	
+		"Image":"img/profile/IMG_1941.JPG",
+		"TM":true,
+		"EB":true
+	},
+	{
+		"Name": "Alex Meyer",
+		"Function": "Vice President of Outgoing Exchange",
+		"Email": "vpogx-aiesecillinois@aaiesecus.org",
+		"Image":"img/profile/IMG_1909.JPG",
+		"Boss": "Jamie Vogenthaler",
+		"OGX":true,
+		"EB":true
+	},	
+	{
+		"Name": "Alexa Goldsmith",
+		"Function": "Vice President of Incoming Exchange",
+		"Email": "vpicx-aiesecillinois@aaiesecus.org",
+		"Image":"img/profile/IMG_1906.JPG",
+		"Boss": "Jamie Vogenthaler",
+		"EB":true,
+		"ICX":true
+		
+	},
+	{
+		"Name": "Benedict Foo",
+		"Function": "Vice President of Finance",
+		"Email": "vpfin-aiesecillinois@aaiesecus.org",
+		"Boss": "Jamie Vogenthaler",
+		"Image": "",
+		"Details":"",
+		"FIN":true,
+		"EB":true
+	},
+	{
+		"Name": "Dana Vattanavanitkul",
+		"Function": "Vice President of Communications",
+		"Email": "vpcomm-aiesecillinois@aaiesecus.org",
+		"Boss": "Jamie Vogenthaler",	
+		"Image":"img/profile/IMG_1943.JPG",
+		"CM":true,
+		"EB":true
+		
+	},
+    
+	{
+		"Name": "Brandon Yang",
+		"Function": "Finance - Team Leader",
+		"Email": "brandony@aiesecillinois.org",	
+		"Image":"img/profile/IMG_2059.JPG",
+		"FIN":true
+	},
+	{
+		"Name": "Claudia Nadolny",
+		"Function": "Talent Managment - Team Leader",
+		"Email": "claudian@aiesecillinois.org",
+		"Image": "",
+		"TM":true
+	},
+	{
+		"Name": "David Mena",
+		"Function": "Communications - Team Leader",
+		"Email": "davidm@aiesecillinois.org",	
+		"Image":"img/profile/IMG_2161.JPG",
+		"CM":true
+	},
+	{
+		"Name": "David Prager",
+		"Function": "Outgoing Exchange - Team Member",
+		"Email": "davidpr@aiesecillinois.org",
+		"Image": "",
+		"OGX":true
+	},
+	{
+		"Name": "Diego Deveras",
+		"Function": "Communications - Team Member",
+		"Image":"img/profile/IMG_1973.JPG",
+		"CM":true,
+		"Email": "diegod@aiesecillinois.org"
+	},	
+	{
+		"Name": "Ishaan Pakrasi",
+		"Function": "Finance - Team Member",
+		"Email": "ishaanp@aiesecillinois.org",	
+		"Image":"img/profile/IMG_2011.JPG",
+		"Fin":true
+	},
+	{
+		"Name": "Jay Kim",
+		"Function": "Communications - Team Member",
+		"Email": "jayhyunk@aiesecillinois.org",	
+		"Image":"img/profile/IMG_2068.JPG",
+		"CM":true
+	},
+	{
+		"Name": "Julie Jew",
+		"Function": "Incoming Exchange - Team Member",
+		"Email": "juliej@aiesecillinois.org",
+		"Image": "",
+		"ICX":true
+	},
+	{
+		"Name": "Julie Seo",
+		"Function": "Outgoing Exchange - Team Leader",
+		"Email": "julies@aiesecillinois.org",
+		"Image": "",
+		"OGX":true
+	},
+	{
+		"Name": "Lauren Colby",
+		"Function": "Talent Management - Team Leader",
+		"Email": "laurenc@aiesecillinois.org",	
+		"Image":"img/profile/IMG_1951.JPG",
+		"TM":true
+	},
+	{
+		"Name": "Cassie Grimm",
+		"Function": "Talent Management - Team Leader",
+		"Email": "cassieg@aiesecillinois.org",	
+		"Image":"img/profile/IMG_2038.JPG",
+		"TM": true
+	},
+	{
+		"Name": "Miguel Garcia",
+		"Function": "Outgoing Exchange - Team Leader",
+		"Email": "miguelg@aiesecillinois.org",	
+		"Image":"img/profile/IMG_2156.JPG",
+		"OGX":true
+	},
+	{
+		"Name": "Annissa Zak",
+		"Function" : "Communications - Team Leader",
+		"Email" : "annissaz@aiesecus.org",
+		"Image": "img/profile/annissazak.jpg",	
+		"Image":"img/profile/IMG_2150.JPG",
+		"CM":true
+	},
+	{
+		"Name": "Christel Bernardo",
+		"Function" : "Communications - Team Leader",
+		"Email" : "christelb@aiesecus.org",	
+		"Image":"img/profile/IMG_1954.JPG",
+		"CM":true
+	},
+	{
+		"Name": "Benjamin Lee",
+		"Function" : "Finance - Team Member",
+		"Email" : "BenjaminL@aiesecus.org",	
+		"Image":"img/profile/IMG_1998.JPG",
+		"FIN":true
+	},
+	{
+		"Name": "Zwelakhe Gila",
+		"Function" : "Incoming Exchange - Team Leader",
+		"Email" : "zgila@aiesecus.org",	
+		"Image":"img/profile/IMG_1908.JPG",
+		"ICX":true
+	},
+	{
+		"Name": "Farnaz Dadrass",
+		"Function" : "Talent Management - Team Leader",
+		"Email" : "FarnazD@aiesecus.org",
+		"Image": "",
+		"TM":true
+	},
+	{
+		"Name": "David Jeon",
+		"Function" : "Communications - Team Member",
+		"Email" : "DavidJ@aiesecus.org",	
+		"Image":"img/profile/IMG_2050.JPG",
+		"CM":true
+	},
+
+	{
+		"Name": "Mustafa Madraswala",
+		"Function" : "Outgoing Exchange - Team Member",
+		"Email" : "Mustafam@aiesecus.org",	
+		"Image":"img/profile/IMG_2051.JPG",
+		"OGX":true
+	},
+	
+	{
+		"Name": "Lisamarie Nappier",
+		"Function" : "Communications - Team Member",
+		"Email" : "limarien@aiesecus.org",	
+		"Image":"img/profile/IMG_2021.JPG",
+		"CM":true
+	},
+	
+	{
+		"Name": "Lubin Lee",
+		"Function" : "Communications - Team Member",
+		"Email" : "lubinl@aiesecus.org",	
+		"Image":"img/profile/IMG_1967.JPG",
+		"CM":true
+	},
+	
+	{
+		"Name": "Samantha Bolet",
+		"Function" : "Communications - Team Member",
+		"Email" : "samanthab@aiesecus.org",	
+		"Image":"img/profile/IMG_2098.JPG",
+		"CM":true
+	},
+	
+	{
+		"Name": "Albert Jin Young Seo",
+		"Function" : "Finance - Team Member",
+		"Email" : "alberts@aiesecillinois.org",	
+		"Image":"img/profile/IMG_1985.JPG",
+		"FIN":true
+	},
+	
+	{
+		"Name": "April (Zhaoru) Chen",
+		"Function" : "Finance - Team Member",
+		"Email" : "aprilc@aiesecus.org",	
+		"Image":"img/profile/IMG_1976.JPG",
+		"FIN":true
+	},
+	
+	{
+		"Name": "Carmani Lane",
+		"Function" : "Finance - Team Member",
+		"Email" : "carmanil@aiesecus.org",	
+		"Image":"img/profile/IMG_1898.JPG",
+		"FIN":true
+	},
+	
+	{
+		"Name": "Cristian Gallegos",
+		"Function" : "Finance - Team Member",
+		"Email" : "christiang@aiesecus.org",	
+		"Image":"img/profile/IMG_1958.JPG",
+		"FIN":true
+	},
+	
+	{
+		"Name": "Hiroshi Fujii",
+		"Function" : "Finance - Team Member",
+		"Email" : "hiroshif@aiesecus.org",	
+		"Image":"img/profile/IMG_1913.JPG",
+		"FIN":true
+	},
+	
+	{
+		"Name": "Chad Wilson",
+		"Function" : "Incoming Exchange - Team Member",
+		"Email" : "chadw@aiesecillinois.org",	
+		"Image":"img/profile/IMG_2119.JPG",
+		"ICX":true
+	},
+	
+	{
+		"Name": "Daniel Gutierrez",
+		"Function" : "Incoming Exchange - Team Member",
+		"Email" : "daniel@aiesecillinois.org",	
+		"Image":"img/profile/IMG_1912.JPG",
+		"ICX":true
+	},
+	
+	{
+		"Name": "Irene Zhang",
+		"Function" : "Incoming Exchange - Team Member",
+		"Email" : "irenez@aiesecillinois.org",	
+		"Image":"img/profile/IMG_1889.JPG",
+		"ICX":true
+	},
+	
+	{
+		"Name": "James Michael Dadabo",
+		"Function" : "Incoming Exchange - Team Member",
+		"Email" : "jamesd@aiesecillinois.org",	
+		"Image":"img/profile/IMG_2039.JPG",
+		"ICX":true
+	},
+	
+	{
+		"Name": "Kalina Gajda",
+		"Function" : "Incoming Exchange - Team Member",
+		"Email" : "kalinag@aiesecillinois.org",		
+		"Image":"img/profile/IMG_1888.JPG",
+		"ICX":true
+	},
+	
+	{
+		"Name": "Eun Jung Lee",
+		"Function" : "Outgoing Exchange - Team Member",
+		"Email" : "jessical@aiesecillinois.org",	
+		"Image":"img/profile/IMG_1919.JPG",
+		"OGX":true
+	},
+	
+	{
+		"Name": "Gregory Harrison Harpring",
+		"Function" : "Outgoing Exchange - Team Member",
+		"Email" : "gregoryh@aiesecillinois.org",
+		"Image":"img/profile/IMG_1881.JPG",
+		"OGX":true
+	},
+	
+	{
+		"Name": "Josephine Awah-Kanneh",
+		"Function" : "Outgoing Exchange - Team Member",
+		"Email" : "josephinea@aiesecillinois.org",	
+		"Image":"img/profile/IMG_1993.JPG",
+		"OGX":true
+	},
+	
+	{
+		"Name": "Joshua Ross",
+		"Function" : "Outgoing Exchange - Team Member",
+		"Email" : "joshuar@aiesecillinois.org",	
+		"Image":"img/profile/IMG_2009.JPG",
+		"OGX":true
+	},
+	
+	{
+		"Name": "Kristin Marie Johnson",
+		"Function" : "Outgoing Exchange - Team Member",
+		"Email" : "kristinj@aiesecillinois.org",	
+		"Image":"img/profile/IMG_2085.JPG",
+		"OGX":true
+	},
+	
+	{
+		"Name": "Kristin Vail",
+		"Function" : "Outgoing Exchange - Team Member",
+		"Email" : "kristinv@aiesecillinois.org",
+		"Image":"img/profile/IMG_1886.JPG",
+		"OGX":true
+	},
+	
+	{
+		"Name": "Marianne Bellorin",
+		"Function" : "Outgoing Exchange - Team Member",
+		"Email" : "marianneb@aiesecillinois.org",	
+		"Image":"img/profile/IMG_1922.JPG",
+		"OGX":true
+	},
+	
+	{
+		"Name": "Mariano Nava",
+		"Function" : "Outgoing Exchange - Team Member",
+		"Email" : "marianon@aiesecillinois.org",
+		"Image":"img/profile/IMG_1910.JPG",
+		"OGX":true
+	},
+	
+	{
+		"Name": "Silvana Aranibar",
+		"Function" : "Outgoing Exchange - Team Member",
+		"Email" : "silvanaa@aiesecillinois.org",	
+		"Image":"img/profile/IMG_1891.JPG",
+		"OGX":true
+	},
+	
+	{
+		"Name": "Tiffany Wong",
+		"Function" : "Outgoing Exchange - Team Member",
+		"Email" : "tiffanyw@aiesecillinois.org",	
+		"Image":"img/profile/IMG_1938.JPG",
+		"OGX":true
+	}
+	
+]
