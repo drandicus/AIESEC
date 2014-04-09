@@ -2,7 +2,7 @@
     {
 		"Name": "Jamie Vogenthaler",
 		"Function": "Local Committee President",
-		"Email": "jamiev@aiesecillinois.org",
+		"Email": "lcp-illinois@aiesecus.org",
 		"Image": "",
         "EB":true
 
@@ -10,7 +10,7 @@
 	{
 		"Name": "Kaori Nakamura",
 		"Function": "Vice President of Talent Management",
-		"Email": "vptm-aiesecillinois@aaiesecus.org",
+		"Email": "vptm-illinois@aiesecus.org",
 		"Boss": "Jamie Vogenthaler",	
 		"Image":"img/profile/IMG_1941.JPG",
 		"TM":true,
@@ -19,7 +19,7 @@
 	{
 		"Name": "Alex Meyer",
 		"Function": "Vice President of Outgoing Exchange",
-		"Email": "vpogx-aiesecillinois@aaiesecus.org",
+		"Email": "vpogx-illinois@aiesecus.org",
 		"Image":"img/profile/IMG_1909.JPG",
 		"Boss": "Jamie Vogenthaler",
 		"OGX":true,
@@ -28,7 +28,7 @@
 	{
 		"Name": "Alexa Goldsmith",
 		"Function": "Vice President of Incoming Exchange",
-		"Email": "vpicx-aiesecillinois@aaiesecus.org",
+		"Email": "vpicx-illinois@aiesecus.org",
 		"Image":"img/profile/IMG_1906.JPG",
 		"Boss": "Jamie Vogenthaler",
 		"EB":true,
@@ -38,7 +38,7 @@
 	{
 		"Name": "Benedict Foo",
 		"Function": "Vice President of Finance",
-		"Email": "vpfin-aiesecillinois@aaiesecus.org",
+		"Email": "vpfin-illinois@aiesecus.org",
 		"Boss": "Jamie Vogenthaler",
 		"Image": "",
 		"Details":"",
@@ -48,7 +48,7 @@
 	{
 		"Name": "Dana Vattanavanitkul",
 		"Function": "Vice President of Communications",
-		"Email": "vpcomm-aiesecillinois@aaiesecus.org",
+		"Email": "vpcomm-illinois@aiesecus.org",
 		"Boss": "Jamie Vogenthaler",	
 		"Image":"img/profile/IMG_1943.JPG",
 		"CM":true,

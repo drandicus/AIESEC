@@ -1,13 +1,17 @@
 <div class="row">
-<div class="members-announcement col-md-12">
-	Meet AIESEC ILLINOIS
-</div>
+	<div class="shell">
+		<div class="shell-background" id="members"></div>
+		<div class="shell-title">
+			Members
+		</div>
+	</div>
 </div>
 
 <div class="row">
 	<div class="members-EB col-md-12">
+		<div class="members-title" id="eb">Executive Board</div>
 		<div class="members-group">
-			<div class="members-leader">
+			<div class="members-leader col-md-3">
 				<img ng-src="{{leader.Image}}" id="members-leader" class="minions-image">
 				<div class="members-info">
 					<p><b>{{leader.Name}}</b></p>
@@ -16,7 +20,7 @@
 				</div>
 			</div>
 
-			<div class="members-minions">
+			<div class="members-minions col-md-9">
 				<div class="members-minions-individual" ng-repeat="minions in getMinions()">
 					<img ng-src="{{minions.Image}}" class="minions-image">
 					<p><b>{{minions.Name}}</b></p>

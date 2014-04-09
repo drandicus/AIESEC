@@ -231,8 +231,7 @@ header {
 
 .abroad-global {
 	position:relative;
-	color:white;
-	text-align:#2B747A;
+	color:#888;
 	padding-bottom:100px;
 	
 	-webkit-transition:	box-shadow 1s;
@@ -248,26 +247,23 @@ header {
 }
 
 #globalCitizen {
-	background-color:#026835;
+	color:#C40E0E;
 }
 
 #globalTalent {
-	background-color:#1CB1BC;
+	color:#5156D5;
+}
+
+#proc {
+	color:#BE1E2D;
 }
 
 #dets {
-	background-color:#094E8D;
+	color:#094E8D;
 }
 
 #test {
-	background-color:#E9982A
-}
-
-#recruit {
-	background-color:#F0F0F0; 
-	color:#888;
-	height:700px;
-	padding:20px;
+	color:#E9982A
 }
 
 #GLP {
@@ -337,16 +333,12 @@ header {
 .members-leader {
 	position:relative;
 	float:left;
-	margin-left:100px;
 	margin-top:100px;
 }
 
 .members-minions {
 	position:relative;
 	float:right;
-	width:1000px;
-	margin-left:20px;
-	margin-right:20px;
 }
 
 .members-minions-individual {
@@ -384,21 +376,34 @@ header {
 }
 
 .members-EB {
-	color:white;
-	background-color: #420E94;
 	float:left;
 	padding-bottom:20px;
+	border-bottom:1px dotted #666;
+}
+
+#eb {
+	color:#420E94;
+}
+
+#noeb{
+	color:#0240F8;
+}
+
+.members-title {
+	text-align:center;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-size:5em;
+	font-weight:bold;
+	text-decoration:underline;
 }
 
 .members-nonEB {
-	background-color:#0240F8;
-	color:white;
 	float:left;
 	height:auto;
 }
 
 .members-nonEB {
-	width:100%;
 	margin-left:auto;
 	margin-right:auto;
 	text-align:center;
@@ -410,16 +415,16 @@ header {
 }
 
 .business-services {
-	background-color:#339933;
 	color:black;
 	padding:10px;
+	border-bottom:1px dotted #666;
 }
 
 .business-title {
-	margin-left:20px;
-	margin-top:10px;
-	margin-bottom:10px;
-	font-size:3em;
+	text-align:center;
+	font-size:5em;
+	font-weight:bold;
+	color:#339933;
 	
 }
 
@@ -427,6 +432,7 @@ header {
 	margin-top:20px;
 	margin-left:auto;
 	margin-right:auto;
+	color:#888;
 }
 
 .business-list {
@@ -436,18 +442,6 @@ header {
 .business-text {
 	font-size:1.3em;
 	margin-left:30px;
-}
-
-#bus-first:hover {
-	-webkit-box-shadow: 0px 0px 24px 12px rgba(50, 51, 50, 0.75);
-	-moz-box-shadow:    0px 0px 24px 12px rgba(50, 51, 50, 0.75);
-	box-shadow:         0px 0px 24px 12px rgba(50, 51, 50, 0.75);
-	
-	transition:			box-shadow 1s;
-	-moz-transition:	box-shadow 1s;
-	-webkit-transition:	box-shadow 1s;
-	
-	z-index:10000;
 }
 
 .business-item {
@@ -473,53 +467,15 @@ header {
 }
 
 .business-process {
-	padding:10px;
-	background-color:#0240F8;
-	padding-bottom:50px;
 	font-size:1.3em;
-}
-
-.business-process:hover {
-	-webkit-box-shadow: 0px 0px 24px 12px rgba(50, 51, 50, 0.75);
-	-moz-box-shadow:    0px 0px 24px 12px rgba(50, 51, 50, 0.75);
-	box-shadow:         0px 0px 24px 12px rgba(50, 51, 50, 0.75);
-	
-	transition:			box-shadow 1s;
-	-moz-transition:	box-shadow 1s;
-	-webkit-transition:	box-shadow 1s;
-	
-	z-index:100;
-}
-
-#contact-us {
-	color:black;
 	padding-bottom:200px;
 }
 
-.about {
-	position:relative;
-	width:100%;
-	
+#contact-us {
+	color:#1A3177;
 }
 
-.about-background {
-	position: absolute; 
-	left: 0px; 
-	right: 0px; 
-	top: 0px; 
-	bottom: 0px;
-	background-image: url('/img/about_background.JPG'); 
-	background-size:cover;
-	opacity: 0.5;
-	border-bottom:1px dotted #888;
-}
 
-.about-title {
-	text-align:center;
-	color:#0240F8;
-	font-size:2em;
-	
-}
 
 .about-item {
 	text-align:justify;
@@ -559,4 +515,53 @@ header {
 
 #offer {
 	color:#0240F8;
+}
+
+.shell {
+	position:relative;
+	width:100%;
+	height:700px;
+	
+}
+
+.shell-background {
+	position: absolute; 
+	left: 0px; 
+	right: 0px; 
+	top: 0px; 
+	bottom: 0px;
+	background-size:cover;
+	opacity: 0.5;
+	border-bottom:1px dotted #888;
+}
+
+.shell-title {
+	position:relative;
+	padding-top:250px;
+	text-align:center;
+	color:#071C5A;
+	font-size:6em;
+	font-weight:bold;
+	z-index:1;
+	text-shadow: 0 0 10px #fff;
+}
+
+#about {
+	background-image: url('/img/about_background.JPG'); 
+}
+
+#abroad {
+	background-image: url('/img/abroad_background.JPG');
+}
+
+#join {
+	background-image: url('/img/join_background.JPG');
+}
+
+#business-back {
+	background-image: url('/img/bus_background.JPG');
+}
+
+#members {
+	background-image: url('/img/Champaign-UICU.jpg');
 }
